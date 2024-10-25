@@ -65,6 +65,8 @@ Para impulsar las ventas de PCs en el mercado actual, se necesita una estrategia
 - Tendencias tecnológicas:  Mantenerse actualizado con las últimas tendencias en hardware y software para ofrecer soluciones innovadoras.
  
 ## MVP 
+### NOMBRE DE LA APLICACION 
+"EVANGELINE"
 
 Para un MVP de venta de PCs, el sistema de pago más adecuado debe ser simple, seguro y ampliamente aceptado.  El objetivo es facilitar el proceso de compra y minimizar las fricciones para el usuario.
  
@@ -96,7 +98,7 @@ Ventajas:
 - Evita métodos complejos:  En un MVP, es importante evitar métodos de pago complejos o poco conocidos.
 - Prioriza la seguridad:  Elige una pasarela de pago con medidas de seguridad robustas para proteger la información del usuario.
 - Ofrece opciones de pago:  Proporciona diferentes opciones de pago para adaptarse a las preferencias del usuario.
- s
+
 Recuerda:  El sistema de pago que elijas debe ser compatible con la plataforma de comercio electrónico que utilizas para tu MVP.
  
 Al elegir un sistema de pago simple, seguro y ampliamente aceptado, podrás facilitar el proceso de compra y aumentar las posibilidades de éxito de tu MVP.
